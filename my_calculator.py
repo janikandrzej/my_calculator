@@ -58,4 +58,4 @@ while repeat.lower() == "yes":
         # invalid choice
 
     repeat = input("Do you want to continue? [yes/anything]: ")
-    # finish cykle while
+    # finish cycle while
